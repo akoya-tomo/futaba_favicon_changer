@@ -9,7 +9,7 @@ Chromeの場合、[Tampermonkey](https://chrome.google.com/webstore/detail/tampe
 ※その他のUserscriptとFirefoxアドオンKOSHIANの改変版は[こちら](https://github.com/akoya-tomo/futaba_auto_reloader_K/wiki/)の一覧からどうぞ
 
 ## インストール
-[GreasyFork](https://greasyfork.org/ja/scripts/37565-futaba-favicon-changer/)　
+[GreasyFork](https://greasyfork.org/ja/scripts/39342-futaba-favicon-changer/)　
 [GitHub](https://github.com/akoya-tomo/futaba_favicon_changer/raw/master/futaba_favicon_changer.user.js)
 
 ## 設定
