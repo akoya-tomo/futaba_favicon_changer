@@ -5,7 +5,7 @@
 // @author         akoya_tomo
 // @include        http://*.2chan.net/*/res/*.htm
 // @include        https://*.2chan.net/*/res/*.htm
-// @version        1.0.0
+// @version        1.0.1
 // @grant          none
 // @run-at         document-idle
 // @license        MIT
