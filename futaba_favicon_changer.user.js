@@ -9,6 +9,7 @@
 // @grant          none
 // @run-at         document-idle
 // @license        MIT
+// @noframes
 // ==/UserScript==
 
 (function () {
