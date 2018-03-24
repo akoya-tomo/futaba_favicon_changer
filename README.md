@@ -23,5 +23,7 @@ Chromeの場合、[Tampermonkey](https://chrome.google.com/webstore/detail/tampe
 * このUserscriptは現在非公開になっているFirefoxアドオンKOSHIAN Favicon Changerの代替として作成されたものです。既にKOSHIAN Favicon Changerをインストールしている場合は本スクリプトは不要です。  
 
 ## 更新履歴
+* v1.0.1 2018-03-24
+  - KOSHIAN フォーム拡張アドオンと併用すると誤動作する不具合修正
 * v1.0.0 2018-03-09
   - 新規リリース
